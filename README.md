@@ -1,8 +1,5 @@
-.
+votre-depot/
 ├── index.html
-├── style.css
+├── style.css       <-- Votre fichier CSS
 ├── images/
-│   ├── 233.jpg
-│   ├── produits/
-│   └── ...
 └── README.md
